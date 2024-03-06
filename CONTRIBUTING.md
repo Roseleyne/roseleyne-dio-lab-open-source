@@ -41,8 +41,8 @@
     
     > Se tudo estiver certo, irá aparecer um template, que contém botões de múltipla escolha referente ao seu tipo de alteração, checklist e também comentários adicionais se você achar que seja bom acrescentar. Assim, quando você concluir, é somente você apertar o "Create Pull Request" que fica abaixo dessa caixa de texto e esperar a resposta do bot do Github Actions dizendo se seu PR (Pull Request) foi aceito ou não.
     
-## Convenção de Commits 
 
+ ## Convenção de Commits 
 | Tipo de Commit | Descrição                                                            |
 | ---------------|----------------------------------------------------------------------|
 | `feat`         | Adiciona uma nova funcionalidade ao projeto.                         |
@@ -50,7 +50,7 @@
 | `docs`         | Altera a documentação do projeto. Ex.: README, comentários no código.|
 | `style`        | Realiza mudanças na aparência, sem alterar a funcionalidade.         |
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         |
-| `test`         | Adiciona ou modifica testes no projeto.                              |
+| `test`         | Adiciona ou modifica testes no projeto.                             |
 
 ## Desafios Git e GitHub
 - [50 minutos de desafios para treino](https://www.youtube.com/watch?v=kB5e-gTAl_s)
