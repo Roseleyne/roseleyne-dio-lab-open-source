@@ -42,6 +42,7 @@
     > Se tudo estiver certo, irá aparecer um template, que contém botões de múltipla escolha referente ao seu tipo de alteração, checklist e também comentários adicionais se você achar que seja bom acrescentar. Assim, quando você concluir, é somente você apertar o "Create Pull Request" que fica abaixo dessa caixa de texto e esperar a resposta do bot do Github Actions dizendo se seu PR (Pull Request) foi aceito ou não.
     
 ## Convenção de Commits 
+###Alteração
 
 | Tipo de Commit | Descrição                                                            |
 | ---------------|----------------------------------------------------------------------|
